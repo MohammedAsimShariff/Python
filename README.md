@@ -17,3 +17,5 @@ Key Insights:
 
 * Created some visuals to see the insights thrugh visualizations.
 
+The project utilizes visualizations to present these insights effectively, allowing for a clear understanding of the data and trends. Overall, the Rainfall Analysis project serves as a valuable tool for understanding and analyzing rainfall patterns in India.
+
